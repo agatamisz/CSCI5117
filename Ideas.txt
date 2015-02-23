@@ -1,1 +1,18 @@
 -- Type in your ideas for the application here and provide any links or articles --
+
+So the geospatial control point game that Steve was pitching reminded me of this game http://www.nianticproject.com/ https://play.google.com/store/apps/details?id=com.nianticproject.ingress&hl=en
+I think we can definitely do a novel flavor of that type of game but let's be careful not to bite off more than we can chew.
+
+
+
+Idea: free meter
+An app that lets you upload a pin when you leave a space that you had to pay money for without using all the time alloted
+The app would only have to consist of a web map and a server to hangle push/pulls with people adding pins and asking for the current list of them
+The server would also have to go through the pinds every few seconds to delete the expired ones.
+Additions could be adding a layer to show when certain roads become free to park on and the rates on other roads.
+
+Idea: game
+Since it only has to be an interactive app we could literally create any kind of game, it might not even have to be multiplayer.
+
+
+
