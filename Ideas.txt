@@ -1,5 +1,9 @@
 -- Type in your ideas for the application here and provide any links or articles --
 
+Question:
+If we are going to do a mobile app are we going to make an web app or a android, ios, or windows phone app?
+
+
 So the geospatial control point game that Steve was pitching reminded me of this game http://www.nianticproject.com/ https://play.google.com/store/apps/details?id=com.nianticproject.ingress&hl=en
 I think we can definitely do a novel flavor of that type of game but let's be careful not to bite off more than we can chew.
 
@@ -13,6 +17,5 @@ Additions could be adding a layer to show when certain roads become free to park
 
 Idea: game
 Since it only has to be an interactive app we could literally create any kind of game, it might not even have to be multiplayer.
-
 
 
