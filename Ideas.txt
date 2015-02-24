@@ -15,6 +15,43 @@ The app would only have to consist of a web map and a server to hangle push/pull
 The server would also have to go through the pinds every few seconds to delete the expired ones.
 Additions could be adding a layer to show when certain roads become free to park on and the rates on other roads.
 
+Update:
+I found some apps that provide a similar service to this. I think the idea that Chris had for letting users know how much time is left on a meter is
+novel. 
+
+Pocket Parking Meter
+Helps you locate your parked car and set a timer for when your meter runs out 
+https://play.google.com/store/apps/details?id=ositos.qing.ParkingMeter&hl=en
+
+Park Mobile
+Lets you pay parking meters and ramp via an iPhone app
+https://itunes.apple.com/us/app/parkmobile/id365399299?mt=8
+
+ParkChicago
+Pay-by-cell app/platform for the city of Chicago
+15,000 drivers signed up in ONE month
+http://chicagometers.com/
+
+Parker
+Find open parking spots - get directions to them 
+Currently not available in Minneapolis
+https://play.google.com/store/apps/details?id=com.streetline.parker&hl=en
+
+SpotHero
+Find and book parking spots from desktop or mobile 
+http://spothero.com/
+
+BestParking
+Finds the cheapest spot - supported in Minneapolis 
+https://play.google.com/store/apps/details?id=com.bestparking&hl=en
+
+Open Spot
+User generated content - find open spots when one driver is leaving
+http://androidandme.com/2010/07/news/google-releases-parking-spot-sharing-app-open-spot-into-the-wild/
+
+- individual cities also have apps, Minneapolis does not
+
+
 Idea: game
 Since it only has to be an interactive app we could literally create any kind of game, it might not even have to be multiplayer.
 
