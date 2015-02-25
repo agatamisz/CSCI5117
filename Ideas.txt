@@ -55,4 +55,13 @@ http://androidandme.com/2010/07/news/google-releases-parking-spot-sharing-app-op
 Idea: game
 Since it only has to be an interactive app we could literally create any kind of game, it might not even have to be multiplayer.
 
+Idea: Forest Stewardship Plan Data Portal
+This idea is not novel, but it is useful. Given that we had the opportunity to do the brown fields project, which was of the same vein, I think it might be allowable. My program at work would use this as a mock up for how we want our web portal designed, and would probably end up using a lot of the code.
+The project would be to create a data portal for forest stewardship plans. I would publish the data on the DNRs AGOL server. It would not contain any non-public data, so security would not be a big issue. We would be able to do all of the HTML on one of our UMN webspaces.
+The portal would display the data and allow for user friendly queries for novice computer users. Search by landowner name and zoom to the polygon, show the attributes for that polygon, that kind of thing. That would be the baseline.
+We could expand the project by developing user account management. Authentication would have to be functional, but not robust. The point would be to create the html/css/javascript for the pages and get it working, not to keep out hackers.
+Another possible expansion would be to create an admin dashboard for managing user accounts. 
+So... boring, not novel, but useful and easily scoped.
+
+
 
