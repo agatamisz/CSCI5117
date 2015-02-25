@@ -63,5 +63,12 @@ We could expand the project by developing user account management. Authenticatio
 Another possible expansion would be to create an admin dashboard for managing user accounts. 
 So... boring, not novel, but useful and easily scoped.
 
-
+Idea: Ask a Stranger
+Not sure if this has been done before, but how about an app where users who are logged in could ask questions to a subset of the larger app-using community that is within a particular distance from the user? 
+This way, if you are for instance visiting a place you don't know well and get lost or are looking for a particular destination, you could make a quick ask and people nearby would answer.
+Kind of like a proximity-based group chat.
+This could also be used to ask strangers to participate in random activities with you, like grab a coffee if you just want someone to hang out with, or ask for a spontaneous hug/high-five.
+Also, it could be used as a citizen-based security system, where if you are in a scetchy situation you could let people around you know.
+Biggest drawback in my mind is that most people wouldn't want random people's chats coming to them just because they are nearby. Not sure how to work around that, maybe a ranking system.
+Again, I haven't looked into whether or not this type of thing exists, but it seems too straightforward to have not been done before.
 
