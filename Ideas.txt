@@ -15,6 +15,15 @@ The app would only have to consist of a web map and a server to hangle push/pull
 The server would also have to go through the pinds every few seconds to delete the expired ones.
 Additions could be adding a layer to show when certain roads become free to park on and the rates on other roads.
 
+If webapp version could be a dynamic map layer that shows what streets are free to park when, eg when meters become free
+eg
+                         -|         |-  
+--------------------------+         +------------------------------------------------------------
+                           <-street->
+  spot region A (freein 45min (6:30pm))    |    spot region B never free (24hr) |\      
+-------------------------------------------------------------------------------------------------
+could make a polygon layer for the streets that are chunked out into the different classes and use cartoCSS to add dynamic styling based on current time
+
 Update:
 I found some apps that provide a similar service to this. I think the idea that Chris had for letting users know how much time is left on a meter is
 novel. 
