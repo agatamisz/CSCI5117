@@ -109,3 +109,17 @@ a viewer would see.
 Idea: Bocce Ball App
 Have you ever played Bocce ball and there is disagreement between which ball is closest to the jack? Don't want to 
 bust out the measuring tape? Use this app to take a photo and have it tell you which ball is the winner!
+
+What to Wear App - My Fashion Catalog/Helper
+Photo of each article of clothing
+mix and match outfits
+Random option
+Themed options
+Color clash warnings
+Voting system to rate othe people favorites from your outfits selection
+**Opportunity to sell ads options galore
+pinterest integration?
+                         https://play.google.com/store/apps/details?id=co.mydressing.app&hl=en
+                         https://play.google.com/store/apps/details?id=com.fabu.stylicious&hl=en
+                         https://play.google.com/store/apps/details?id=com.ddnmedia.stylishgirl&hl=en
+
