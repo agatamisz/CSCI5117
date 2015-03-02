@@ -99,3 +99,9 @@ Also, it could be used as a citizen-based security system, where if you are in a
 Biggest drawback in my mind is that most people wouldn't want random people's chats coming to them just because they are nearby. Not sure how to work around that, maybe a ranking system.
 Again, I haven't looked into whether or not this type of thing exists, but it seems too straightforward to have not been done before.
 
+Idea: Color Blindness Tester App
+This idea stems from our cartography discussion on color choices and color blidness. Coblis (http://www.color-blindness.com/coblis-color-blindness-simulator/)
+is a website that allows a user to uplod a photo to the site and test to see how it looks with different Color Vision 
+Deficiencies (CVD). This app would bring this capability to mobile devices (Android). A user would turn on the app which
+uses the phone's camera and then would be able to toggle between different CVDs. The screen would adjust to show what 
+a viewer would see. 
