@@ -105,3 +105,7 @@ is a website that allows a user to uplod a photo to the site and test to see how
 Deficiencies (CVD). This app would bring this capability to mobile devices (Android). A user would turn on the app which
 uses the phone's camera and then would be able to toggle between different CVDs. The screen would adjust to show what 
 a viewer would see. 
+
+Idea: Bocce Ball App
+Have you ever played Bocce ball and there is disagreement between which ball is closest to the jack? Don't want to 
+bust out the measuring tape? Use this app to take a photo and have it tell you which ball is the winner!
